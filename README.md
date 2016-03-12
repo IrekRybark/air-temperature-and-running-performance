@@ -3,10 +3,10 @@ Impact of air temperature on runner's performance
 
 
 #Question
+**How does my running data reflect performance decrease with raisng temperature?**
 I am a casual runner and love data.  Having Garmin GPS watch allowed me to collect a lot of data about my runs.  
 Since I am on a heavy side, my body does not respond well to higher temperatures. 
 My 'God of Running', Jeff Galloway discusses pace adjustments for running races (see Resources below).  
-**How does my running data reflect performance decrease with raisng temperature?**
 
 ##Account for Heat by Jeff Galloway
 http://www.fleetfeetwinston-salem.com/training/resources/heat-pace  
